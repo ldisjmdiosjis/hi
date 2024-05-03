@@ -1,0 +1,8 @@
+@font-face {
+  font-family: '온글잎 수야';
+  src: url('온글잎 수야.ttf') format('truetype');
+}
+
+body {
+  font-family: '온글잎 수야', sans-serif;
+}
